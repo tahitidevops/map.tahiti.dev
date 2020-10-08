@@ -3,7 +3,7 @@ title: Hubert Leviel
 photo: https://avatars2.githubusercontent.com/u/13158585?s=64&u=1ed11e593f9a518aa0ebd2ed7b35fdd444d74f25&v=4
 lat: -17.542105
 lng: -149.775104
-stack-overflow_account: https://stackoverflow.com/users/5038107
+stack_overflow_account: https://stackoverflow.com/users/5038107
 slack_account: HubertL
 contact_url: https://www.linkedin.com/in/hubertleviel/
 ---
