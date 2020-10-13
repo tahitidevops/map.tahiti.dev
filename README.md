@@ -1,6 +1,6 @@
 ## map.devops.pf
 
-Pour rajouter votre contact (vous n'y êtes pas obliger bien sûr), vous devez :
+Pour rajouter votre contact (vous n'y êtes pas obligé bien sûr), vous devez :
 
 * Cloner ce repository
 * Créer un fichier au format PRENOM-NOM.md dans le dossier _members
@@ -23,7 +23,7 @@ Pour rajouter votre contact (vous n'y êtes pas obliger bien sûr), vous devez :
 
 Vous avez peut-être envie de contribuer à ce projet ?
 
-Vous pouvez utilisez RVM si vous n'avez pas déjà un environnement Ruby fonctionnel (https://rvm.io/rvm/install)
+Vous pouvez utiliser RVM si vous n'avez pas déjà un environnement Ruby fonctionnel (https://rvm.io/rvm/install)
 
 ```
 $ sudo gem install bundler
