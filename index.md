@@ -28,7 +28,7 @@ layout: default
 ));
     {% endfor %}
 
-    var common_attribution_pre = 'Données cartographiques : <a href="https://www.openstreetmap.fr/">OpenStreetMap France</a> | Tuiles : ';
+    var common_attribution_pre = 'Données cartographiques : <a href="https://www.openstreetmap.org/copyright">contributeur·rices OpenStreetMap</a> | Tuiles : ';
     var common_attribution_post = ' | Icônes : <a href="https://fontawesome.com/">Font Awesome</a> | <a href="{{ "/about" | relative_url }}">À propos de ce site</a>';
 
     var neighbourhood_map_layer = L.tileLayer('https://tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=f001bec5e17447b0b597e5a8e766bbf2', {attribution: common_attribution_pre + '<a href="https://www.thunderforest.com/maps/neighbourhood/">Neighbourhood</a>' + common_attribution_post});
