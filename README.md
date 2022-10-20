@@ -1,4 +1,4 @@
-# map.devops.pf
+# map.tahiti.dev
 
 Pour rajouter votre contact (vous n'y êtes pas obligé·e bien sûr), vous devez :
 
@@ -30,8 +30,8 @@ Prérequis :
 Note: Vous pouvez utiliser [rbenv](https://github.com/rbenv/rbenv) ou [RVM](https://rvm.io/rvm/install) si vous n'avez pas déjà un environnement Ruby fonctionnel ou si vous n'êtes pas administrateur·rice de votre machine.
 
 ```
-$ git clone https://github.com/tahitidevops/map.devops.pf.git
-$ cd map.devops.pf
+$ git clone https://github.com/tahitidevops/map.tahiti.dev.git
+$ cd map.tahiti.dev
 $ bundle install
 $ bundle exec jekyll serve
 ```
